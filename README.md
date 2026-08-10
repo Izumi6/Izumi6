@@ -68,18 +68,6 @@ Product      → Agile · Data Science · Jupyter · Analytics
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Suyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izumi6&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=D4AF37&icon_color=D4AF37&text_color=C9C9C9&ring_color=D4AF37)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Izumi6&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=D4AF37&text_color=C9C9C9)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to AI engineering roles, research collaborations, and technical product management opportunities.*
