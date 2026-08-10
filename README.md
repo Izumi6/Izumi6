@@ -43,7 +43,7 @@ Currently focused on **LLM agent architectures**, **neuromorphic computing**, an
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [**WorkSphere OS**](https://github.com/Izumi6/WORKSPHERE) | Enterprise workflow & team management platform (JWT, MongoDB, Express) | [🌐 Live](https://worksphere.vercel.app) |
+| [**WorkSphere OS**](https://github.com/Izumi6/Worksphere-os) | Enterprise workflow & team management platform (JWT, MongoDB, Express) | [🌐 Live](https://worksphere-os.vercel.app) |
 | [**CloudSecure**](https://github.com/Izumi6/cloud-secure) | Enterprise cloud security platform | [🌐 Live](https://cloud-secure.vercel.app) |
 | [**Price Pulse**](https://github.com/Izumi6/price-pulse-e-comerce) | Smart shopping analytics & price tracking | [🌐 Live](https://price-pulse-e-comerce.vercel.app) |
 | [**Smart Study Planner**](https://github.com/Izumi6/Smart-Study-Planner) | Study planner with Google Auth | [🌐 Live](https://smart-study-planner-izumi6s-projects.vercel.app) |
