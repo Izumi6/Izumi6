@@ -4,7 +4,7 @@
 
 ### AI Engineer · ML Researcher · Technical Product Manager
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-suyashvakhariya.com-D4AF37?style=flat-square&labelColor=0A0A0F)](https://suyashvakhariya.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-suyashvakhariya.com-D4AF37?style=flat-square&labelColor=0A0A0F)](https://suyashvakhariya.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suyashvakhariya-0077B5?style=flat-square&logo=linkedin&labelColor=0A0A0F)](https://www.linkedin.com/in/suyashvakhariya)
 [![Email](https://img.shields.io/badge/Email-vakhariyasuyash-EA4335?style=flat-square&logo=gmail&labelColor=0A0A0F)](mailto:vakhariyasuyash@gmail.com)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21168000-blue?style=flat-square&labelColor=0A0A0F)](https://doi.org/10.5281/zenodo.21168000)
