@@ -156,31 +156,4 @@
 
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Izumi6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9" alt="Suyash's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izumi6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=C9D1D9" alt="Top Languages" height="165" />
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Izumi6&theme=tokyonight&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" alt="GitHub Streak" />
-</p>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect & Collaborate
-
-*I am open to AI engineering opportunities, research partnerships, and open-source contributions.*
-
-[![Portfolio](https://img.shields.io/badge/🌐_Personal_Website-suyashvakhariya.com-D4AF37?style=for-the-badge&labelColor=0A0A0F)](https://suyashvakhariya.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suyash_Vakhariya-0077B5?style=for-the-badge&logo=linkedin&labelColor=0A0A0F)](https://www.linkedin.com/in/suyashvakhariya)
-[![Email](https://img.shields.io/badge/Email-vakhariyasuyash@gmail.com-EA4335?style=for-the-badge&logo=gmail&labelColor=0A0A0F)](mailto:vakhariyasuyash@gmail.com)
-
-<sub>Designed with precision · Indexed for discoverability · © 2026 Suyash Vakhariya</sub>
-
-</div>
